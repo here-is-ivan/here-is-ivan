@@ -13,5 +13,5 @@
 <h3 align="left">My Tech Stack:</h3>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,nodejs,express,aws,docker,postgres,mongodb,mysql&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,nodejs,express,postgres,mongodb,mysql&theme=dark" alt="Tech Stack" />
 </div>
